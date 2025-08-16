@@ -1,0 +1,15 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.main {
+  flex: 1;
+  padding: 2rem;
+}
+.hero {
+  background: linear-gradient(180deg, #f7f7f7 0%, #ffffff 100%);
+  padding: 3rem;
+  border-radius: 8px;
+}
+.selected { margin-top: 1.5rem; }
